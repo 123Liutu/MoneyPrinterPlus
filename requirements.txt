@@ -4,19 +4,26 @@ langchain-community==0.0.38
 tenacity==8.3.0
 openai==1.16.2
 azure-cognitiveservices-speech==1.36.0
+
 pillow>=9.5.0
 qianfan==0.3.15
 dashscope==1.17.4
 aliyun-python-sdk-core==2.15.1
 tencentcloud-sdk-python-tts==3.0.1168
+
 psutil>=5.9.0
 selenium==4.20.0
 pyperclip>=1.8.2
-torch==2.2.2
+
+# torch 移除，改成在后端或本地环境安装
+# torch==2.x.x
+
 numpy==1.26.4
 faster-whisper==1.0.3
+
 requests>=2.31.0
 aiohttp>=3.9.0
 sherpa-onnx==1.0.0
+
 streamlit==1.31.1
 pyyaml>=6.0.1
