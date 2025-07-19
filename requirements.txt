@@ -9,11 +9,11 @@ qianfan==0.3.15
 dashscope
 aliyun-python-sdk-core==2.15.1
 tencentcloud-sdk-python-tts==3.0.1168
-pydub
+pyusb
 psutil
 selenium==4.20.0
 pyperclip
-pyaudio
+pyaudio==0.2.11
 torch==1.13.1
 pybase16384
 numpy==1.26.4
@@ -22,5 +22,4 @@ requests
 aiohttp
 sherpa-onnx
 streamlit==1.31.1
-requests
 pyyaml
