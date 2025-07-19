@@ -6,7 +6,6 @@ openai==1.16.2
 azure-cognitiveservices-speech==1.36.0
 
 pillow>=9.5.0
-qianfan==0.3.15
 dashscope==1.17.4
 aliyun-python-sdk-core==2.15.1
 tencentcloud-sdk-python-tts==3.0.1168
